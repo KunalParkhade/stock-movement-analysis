@@ -9,3 +9,7 @@ data/outputs/
 
 # Ignore virtual environment
 venv/
+
+.env
+
+session_name.session

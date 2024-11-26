@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+nltk
+spacy
+beautifulsoup4
+tweepy
+praw
+telethon
+matplotlib
+seaborn
+gensim
+vaderSentiment
+python-dotenv
