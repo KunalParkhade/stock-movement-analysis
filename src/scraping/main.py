@@ -19,5 +19,5 @@ if __name__ == "__main__":
 
     telegram_scraper = TelegramScraper()
     telegram_scraper.authenticate()
-    messages = telegram_scraper.scrape_data(channel="https://t.me/the_trading_advisor_stock", limit=50)
+    messages = telegram_scraper.scrape_data(channel="https://t.me/s/moneycontrolcom", limit=50)
     telegram_scraper.save_data(messages, "data/raw/telegram_data.json")
